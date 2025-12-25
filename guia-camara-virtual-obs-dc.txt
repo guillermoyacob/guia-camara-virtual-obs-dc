@@ -1,4 +1,4 @@
-CÓMO PONER UN VIDEO, GIF O IMAGEN EN LA CÁMARA DE DISCORD (CON CAMARA VIRTUAL) (Versión 1.0):
+CÓMO PONER UN VIDEO, GIF O IMAGEN EN LA CÁMARA DE DISCORD (CON CAMARA VIRTUAL) (Versión 1.1):
 
 Este procedimiento es para PC, desconozco como hacerlo en el móvil o celular:
 
@@ -63,7 +63,7 @@ Eso hará que ni bien comience a funcionar OBS la cámara virtual comenzará a t
 
 8- MINIMIZAR A LA BANDEJA AL INICIAR:
 
-Dentro de OBS (arriba a la derecha) hacemos click en "Archivo" > "Ajustes" > "General" > "Bandeja del sistema": Minimizar a la bandeja del sistema al iniciar.
+Dentro de OBS (arriba a la izquierda) hacemos click en "Archivo" > "Ajustes" > "General" > "Bandeja del sistema": Minimizar a la bandeja del sistema al iniciar.
 
 
 Enjoy!
